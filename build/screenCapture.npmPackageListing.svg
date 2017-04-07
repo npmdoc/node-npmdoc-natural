@@ -1,137 +1,137 @@
 <svg height="2142" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2142" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 15:57:15 +0000  4891750 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 15:57:15 +0000      221 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 15:57:15 +0000     1109 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 15:57:15 +0000     1465 bytes  Makefile</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 15:57:15 +0000    32509 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 15:57:15 +0000     1108 bytes  index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 15:57:15 +0000     5477 bytes  lib/natural/analyzers/sentence_analyzer.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 15:57:15 +0000       76 bytes  lib/natural/brill_pos_tagger/data/Dutch/README.t\</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 15:58:45 +0000  4891750 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 15:58:45 +0000      221 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 15:58:45 +0000     1109 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 15:58:45 +0000     1465 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 15:58:45 +0000    32509 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 15:58:45 +0000     1108 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 15:58:45 +0000     5477 bytes  lib/natural/analyzers/sentence_analyzer.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 15:58:45 +0000       76 bytes  lib/natural/brill_pos_tagger/data/Dutch/README.t\</tspan>
 <tspan x="10" y="154">xt</tspan>
-<tspan x="10" y="170">  8.  2017-04-07 15:57:15 +0000    19596 bytes  lib/natural/brill_pos_tagger/data/Dutch/brill_CO\</tspan>
+<tspan x="10" y="170">  8.  2017-04-07 15:58:45 +0000    19596 bytes  lib/natural/brill_pos_tagger/data/Dutch/brill_CO\</tspan>
 <tspan x="10" y="186">NTEXTRULES.jg</tspan>
-<tspan x="10" y="202">  9.  2017-04-07 15:57:15 +0000   378224 bytes  lib/natural/brill_pos_tagger/data/Dutch/brill_LE\</tspan>
+<tspan x="10" y="202">  9.  2017-04-07 15:58:45 +0000   378224 bytes  lib/natural/brill_pos_tagger/data/Dutch/brill_LE\</tspan>
 <tspan x="10" y="218">XICON.jg</tspan>
-<tspan x="10" y="234"> 10.  2017-04-07 15:57:15 +0000      529 bytes  lib/natural/brill_pos_tagger/data/English/README\</tspan>
+<tspan x="10" y="234"> 10.  2017-04-07 15:58:45 +0000      529 bytes  lib/natural/brill_pos_tagger/data/English/README\</tspan>
 <tspan x="10" y="250">.txt</tspan>
-<tspan x="10" y="266"> 11.  2017-04-07 15:57:15 +0000  4014030 bytes  lib/natural/brill_pos_tagger/data/English/lexico\</tspan>
+<tspan x="10" y="266"> 11.  2017-04-07 15:58:45 +0000  4014030 bytes  lib/natural/brill_pos_tagger/data/English/lexico\</tspan>
 <tspan x="10" y="282">n_from_posjs.json</tspan>
-<tspan x="10" y="298"> 12.  2017-04-07 15:57:15 +0000      236 bytes  lib/natural/brill_pos_tagger/data/English/tr_fro\</tspan>
+<tspan x="10" y="298"> 12.  2017-04-07 15:58:45 +0000      236 bytes  lib/natural/brill_pos_tagger/data/English/tr_fro\</tspan>
 <tspan x="10" y="314">m_brill_paper.txt</tspan>
-<tspan x="10" y="330"> 13.  2017-04-07 15:57:15 +0000      539 bytes  lib/natural/brill_pos_tagger/data/English/tr_fro\</tspan>
+<tspan x="10" y="330"> 13.  2017-04-07 15:58:45 +0000      539 bytes  lib/natural/brill_pos_tagger/data/English/tr_fro\</tspan>
 <tspan x="10" y="346">m_posjs.txt</tspan>
-<tspan x="10" y="362"> 14.  2017-04-07 15:57:15 +0000     1667 bytes  lib/natural/brill_pos_tagger/lib/Brill_POS_Tagge\</tspan>
+<tspan x="10" y="362"> 14.  2017-04-07 15:58:45 +0000     1667 bytes  lib/natural/brill_pos_tagger/lib/Brill_POS_Tagge\</tspan>
 <tspan x="10" y="378">r.js</tspan>
-<tspan x="10" y="394"> 15.  2017-04-07 15:57:15 +0000     2143 bytes  lib/natural/brill_pos_tagger/lib/Lexicon.js</tspan>
-<tspan x="10" y="410"> 16.  2017-04-07 15:57:15 +0000    11746 bytes  lib/natural/brill_pos_tagger/lib/Predicate.js</tspan>
-<tspan x="10" y="426"> 17.  2017-04-07 15:57:15 +0000     1203 bytes  lib/natural/brill_pos_tagger/lib/RuleSet.js</tspan>
-<tspan x="10" y="442"> 18.  2017-04-07 15:57:15 +0000    18801 bytes  lib/natural/brill_pos_tagger/lib/TF_Parser.js</tspan>
-<tspan x="10" y="458"> 19.  2017-04-07 15:57:15 +0000      947 bytes  lib/natural/brill_pos_tagger/lib/TF_Parser.pegjs</tspan>
-<tspan x="10" y="474"> 20.  2017-04-07 15:57:15 +0000     1701 bytes  lib/natural/brill_pos_tagger/lib/TransformationR\</tspan>
+<tspan x="10" y="394"> 15.  2017-04-07 15:58:45 +0000     2143 bytes  lib/natural/brill_pos_tagger/lib/Lexicon.js</tspan>
+<tspan x="10" y="410"> 16.  2017-04-07 15:58:45 +0000    11746 bytes  lib/natural/brill_pos_tagger/lib/Predicate.js</tspan>
+<tspan x="10" y="426"> 17.  2017-04-07 15:58:45 +0000     1203 bytes  lib/natural/brill_pos_tagger/lib/RuleSet.js</tspan>
+<tspan x="10" y="442"> 18.  2017-04-07 15:58:45 +0000    18801 bytes  lib/natural/brill_pos_tagger/lib/TF_Parser.js</tspan>
+<tspan x="10" y="458"> 19.  2017-04-07 15:58:45 +0000      947 bytes  lib/natural/brill_pos_tagger/lib/TF_Parser.pegjs</tspan>
+<tspan x="10" y="474"> 20.  2017-04-07 15:58:45 +0000     1701 bytes  lib/natural/brill_pos_tagger/lib/TransformationR\</tspan>
 <tspan x="10" y="490">ule.js</tspan>
-<tspan x="10" y="506"> 21.  2017-04-07 15:57:15 +0000     2112 bytes  lib/natural/classifiers/bayes_classifier.js</tspan>
-<tspan x="10" y="522"> 22.  2017-04-07 15:57:15 +0000     5072 bytes  lib/natural/classifiers/classifier.js</tspan>
-<tspan x="10" y="538"> 23.  2017-04-07 15:57:15 +0000     2448 bytes  lib/natural/classifiers/logistic_regression_clas\</tspan>
+<tspan x="10" y="506"> 21.  2017-04-07 15:58:45 +0000     2112 bytes  lib/natural/classifiers/bayes_classifier.js</tspan>
+<tspan x="10" y="522"> 22.  2017-04-07 15:58:45 +0000     5072 bytes  lib/natural/classifiers/classifier.js</tspan>
+<tspan x="10" y="538"> 23.  2017-04-07 15:58:45 +0000     2448 bytes  lib/natural/classifiers/logistic_regression_clas\</tspan>
 <tspan x="10" y="554">sifier.js</tspan>
-<tspan x="10" y="570"> 24.  2017-04-07 15:57:15 +0000     2595 bytes  lib/natural/distance/dice_coefficient.js</tspan>
-<tspan x="10" y="586"> 25.  2017-04-07 15:57:15 +0000     3895 bytes  lib/natural/distance/jaro-winkler_distance.js</tspan>
-<tspan x="10" y="602"> 26.  2017-04-07 15:57:15 +0000     2815 bytes  lib/natural/distance/levenshtein_distance.js</tspan>
-<tspan x="10" y="618"> 27.  2017-04-07 15:57:15 +0000     5199 bytes  lib/natural/index.js</tspan>
-<tspan x="10" y="634"> 28.  2017-04-07 15:57:15 +0000     1660 bytes  lib/natural/inflectors/count_inflector.js</tspan>
-<tspan x="10" y="650"> 29.  2017-04-07 15:57:15 +0000     1177 bytes  lib/natural/inflectors/form_set.js</tspan>
-<tspan x="10" y="666"> 30.  2017-04-07 15:57:15 +0000     2090 bytes  lib/natural/inflectors/fr/count_inflector.js</tspan>
-<tspan x="10" y="682"> 31.  2017-04-07 15:57:15 +0000    13765 bytes  lib/natural/inflectors/fr/noun_inflector.js</tspan>
-<tspan x="10" y="698"> 32.  2017-04-07 15:57:15 +0000     5731 bytes  lib/natural/inflectors/ja/noun_inflector.js</tspan>
-<tspan x="10" y="714"> 33.  2017-04-07 15:57:15 +0000     4933 bytes  lib/natural/inflectors/noun_inflector.js</tspan>
-<tspan x="10" y="730"> 34.  2017-04-07 15:57:15 +0000     2854 bytes  lib/natural/inflectors/present_verb_inflector.js</tspan>
-<tspan x="10" y="746"> 35.  2017-04-07 15:57:15 +0000     3692 bytes  lib/natural/inflectors/singular_plural_inflector\</tspan>
+<tspan x="10" y="570"> 24.  2017-04-07 15:58:45 +0000     2595 bytes  lib/natural/distance/dice_coefficient.js</tspan>
+<tspan x="10" y="586"> 25.  2017-04-07 15:58:45 +0000     3895 bytes  lib/natural/distance/jaro-winkler_distance.js</tspan>
+<tspan x="10" y="602"> 26.  2017-04-07 15:58:45 +0000     2815 bytes  lib/natural/distance/levenshtein_distance.js</tspan>
+<tspan x="10" y="618"> 27.  2017-04-07 15:58:45 +0000     5199 bytes  lib/natural/index.js</tspan>
+<tspan x="10" y="634"> 28.  2017-04-07 15:58:45 +0000     1660 bytes  lib/natural/inflectors/count_inflector.js</tspan>
+<tspan x="10" y="650"> 29.  2017-04-07 15:58:45 +0000     1177 bytes  lib/natural/inflectors/form_set.js</tspan>
+<tspan x="10" y="666"> 30.  2017-04-07 15:58:45 +0000     2090 bytes  lib/natural/inflectors/fr/count_inflector.js</tspan>
+<tspan x="10" y="682"> 31.  2017-04-07 15:58:45 +0000    13765 bytes  lib/natural/inflectors/fr/noun_inflector.js</tspan>
+<tspan x="10" y="698"> 32.  2017-04-07 15:58:45 +0000     5731 bytes  lib/natural/inflectors/ja/noun_inflector.js</tspan>
+<tspan x="10" y="714"> 33.  2017-04-07 15:58:45 +0000     4933 bytes  lib/natural/inflectors/noun_inflector.js</tspan>
+<tspan x="10" y="730"> 34.  2017-04-07 15:58:45 +0000     2854 bytes  lib/natural/inflectors/present_verb_inflector.js</tspan>
+<tspan x="10" y="746"> 35.  2017-04-07 15:58:45 +0000     3692 bytes  lib/natural/inflectors/singular_plural_inflector\</tspan>
 <tspan x="10" y="762">.js</tspan>
-<tspan x="10" y="778"> 36.  2017-04-07 15:57:15 +0000     3276 bytes  lib/natural/ngrams/ngrams.js</tspan>
-<tspan x="10" y="794"> 37.  2017-04-07 15:57:15 +0000     2867 bytes  lib/natural/ngrams/ngrams_zh.js</tspan>
-<tspan x="10" y="810"> 38.  2017-04-07 15:57:15 +0000     3147 bytes  lib/natural/normalizers/normalizer.js</tspan>
-<tspan x="10" y="826"> 39.  2017-04-07 15:57:15 +0000    15686 bytes  lib/natural/normalizers/normalizer_ja.js</tspan>
-<tspan x="10" y="842"> 40.  2017-04-07 15:57:15 +0000     2297 bytes  lib/natural/normalizers/normalizer_no.js</tspan>
-<tspan x="10" y="858"> 41.  2017-04-07 15:57:15 +0000     9665 bytes  lib/natural/normalizers/remove_diacritics.js</tspan>
-<tspan x="10" y="874"> 42.  2017-04-07 15:57:15 +0000     8272 bytes  lib/natural/phonetics/dm_soundex.js</tspan>
-<tspan x="10" y="890"> 43.  2017-04-07 15:57:15 +0000    15916 bytes  lib/natural/phonetics/double_metaphone.js</tspan>
-<tspan x="10" y="906"> 44.  2017-04-07 15:57:15 +0000     5104 bytes  lib/natural/phonetics/metaphone.js</tspan>
-<tspan x="10" y="922"> 45.  2017-04-07 15:57:15 +0000     2056 bytes  lib/natural/phonetics/phonetic.js</tspan>
-<tspan x="10" y="938"> 46.  2017-04-07 15:57:15 +0000     2768 bytes  lib/natural/phonetics/soundex.js</tspan>
-<tspan x="10" y="954"> 47.  2017-04-07 15:57:15 +0000     4066 bytes  lib/natural/spellcheck/spellcheck.js</tspan>
-<tspan x="10" y="970"> 48.  2017-04-07 15:57:15 +0000    18831 bytes  lib/natural/stemmers/lancaster_rules.js</tspan>
-<tspan x="10" y="986"> 49.  2017-04-07 15:57:15 +0000     2922 bytes  lib/natural/stemmers/lancaster_stemmer.js</tspan>
-<tspan x="10" y="1002"> 50.  2017-04-07 15:57:15 +0000     7894 bytes  lib/natural/stemmers/porter_stemmer.js</tspan>
-<tspan x="10" y="1018"> 51.  2017-04-07 15:57:15 +0000     8462 bytes  lib/natural/stemmers/porter_stemmer_es.js</tspan>
-<tspan x="10" y="1034"> 52.  2017-04-07 15:57:15 +0000     1392 bytes  lib/natural/stemmers/porter_stemmer_fa.js</tspan>
-<tspan x="10" y="1050"> 53.  2017-04-07 15:57:15 +0000    14603 bytes  lib/natural/stemmers/porter_stemmer_fr.js</tspan>
-<tspan x="10" y="1066"> 54.  2017-04-07 15:57:15 +0000     8732 bytes  lib/natural/stemmers/porter_stemmer_it.js</tspan>
-<tspan x="10" y="1082"> 55.  2017-04-07 15:57:15 +0000     4182 bytes  lib/natural/stemmers/porter_stemmer_no.js</tspan>
-<tspan x="10" y="1098"> 56.  2017-04-07 15:57:15 +0000     8499 bytes  lib/natural/stemmers/porter_stemmer_pt.js</tspan>
-<tspan x="10" y="1114"> 57.  2017-04-07 15:57:15 +0000     4671 bytes  lib/natural/stemmers/porter_stemmer_ru.js</tspan>
-<tspan x="10" y="1130"> 58.  2017-04-07 15:57:15 +0000     2765 bytes  lib/natural/stemmers/stemmer.js</tspan>
-<tspan x="10" y="1146"> 59.  2017-04-07 15:57:15 +0000     2177 bytes  lib/natural/stemmers/stemmer_es.js</tspan>
-<tspan x="10" y="1162"> 60.  2017-04-07 15:57:15 +0000     2036 bytes  lib/natural/stemmers/stemmer_fa.js</tspan>
-<tspan x="10" y="1178"> 61.  2017-04-07 15:57:15 +0000     2073 bytes  lib/natural/stemmers/stemmer_fr.js</tspan>
-<tspan x="10" y="1194"> 62.  2017-04-07 15:57:15 +0000     1110 bytes  lib/natural/stemmers/stemmer_it.js</tspan>
-<tspan x="10" y="1210"> 63.  2017-04-07 15:57:15 +0000     3984 bytes  lib/natural/stemmers/stemmer_ja.js</tspan>
-<tspan x="10" y="1226"> 64.  2017-04-07 15:57:15 +0000     2150 bytes  lib/natural/stemmers/stemmer_no.js</tspan>
-<tspan x="10" y="1242"> 65.  2017-04-07 15:57:15 +0000     2149 bytes  lib/natural/stemmers/stemmer_pl.js</tspan>
-<tspan x="10" y="1258"> 66.  2017-04-07 15:57:15 +0000     2104 bytes  lib/natural/stemmers/stemmer_pt.js</tspan>
-<tspan x="10" y="1274"> 67.  2017-04-07 15:57:15 +0000     2169 bytes  lib/natural/stemmers/stemmer_ru.js</tspan>
-<tspan x="10" y="1290"> 68.  2017-04-07 15:57:15 +0000     5379 bytes  lib/natural/stemmers/token.js</tspan>
-<tspan x="10" y="1306"> 69.  2017-04-07 15:57:15 +0000     6170 bytes  lib/natural/tfidf/tfidf.js</tspan>
-<tspan x="10" y="1322"> 70.  2017-04-07 15:57:15 +0000     1463 bytes  lib/natural/tokenizers/aggressive_tokenizer.js</tspan>
-<tspan x="10" y="1338"> 71.  2017-04-07 15:57:15 +0000     1504 bytes  lib/natural/tokenizers/aggressive_tokenizer_es.j\</tspan>
+<tspan x="10" y="778"> 36.  2017-04-07 15:58:45 +0000     3276 bytes  lib/natural/ngrams/ngrams.js</tspan>
+<tspan x="10" y="794"> 37.  2017-04-07 15:58:45 +0000     2867 bytes  lib/natural/ngrams/ngrams_zh.js</tspan>
+<tspan x="10" y="810"> 38.  2017-04-07 15:58:45 +0000     3147 bytes  lib/natural/normalizers/normalizer.js</tspan>
+<tspan x="10" y="826"> 39.  2017-04-07 15:58:45 +0000    15686 bytes  lib/natural/normalizers/normalizer_ja.js</tspan>
+<tspan x="10" y="842"> 40.  2017-04-07 15:58:45 +0000     2297 bytes  lib/natural/normalizers/normalizer_no.js</tspan>
+<tspan x="10" y="858"> 41.  2017-04-07 15:58:45 +0000     9665 bytes  lib/natural/normalizers/remove_diacritics.js</tspan>
+<tspan x="10" y="874"> 42.  2017-04-07 15:58:45 +0000     8272 bytes  lib/natural/phonetics/dm_soundex.js</tspan>
+<tspan x="10" y="890"> 43.  2017-04-07 15:58:45 +0000    15916 bytes  lib/natural/phonetics/double_metaphone.js</tspan>
+<tspan x="10" y="906"> 44.  2017-04-07 15:58:45 +0000     5104 bytes  lib/natural/phonetics/metaphone.js</tspan>
+<tspan x="10" y="922"> 45.  2017-04-07 15:58:45 +0000     2056 bytes  lib/natural/phonetics/phonetic.js</tspan>
+<tspan x="10" y="938"> 46.  2017-04-07 15:58:45 +0000     2768 bytes  lib/natural/phonetics/soundex.js</tspan>
+<tspan x="10" y="954"> 47.  2017-04-07 15:58:45 +0000     4066 bytes  lib/natural/spellcheck/spellcheck.js</tspan>
+<tspan x="10" y="970"> 48.  2017-04-07 15:58:45 +0000    18831 bytes  lib/natural/stemmers/lancaster_rules.js</tspan>
+<tspan x="10" y="986"> 49.  2017-04-07 15:58:45 +0000     2922 bytes  lib/natural/stemmers/lancaster_stemmer.js</tspan>
+<tspan x="10" y="1002"> 50.  2017-04-07 15:58:45 +0000     7894 bytes  lib/natural/stemmers/porter_stemmer.js</tspan>
+<tspan x="10" y="1018"> 51.  2017-04-07 15:58:45 +0000     8462 bytes  lib/natural/stemmers/porter_stemmer_es.js</tspan>
+<tspan x="10" y="1034"> 52.  2017-04-07 15:58:45 +0000     1392 bytes  lib/natural/stemmers/porter_stemmer_fa.js</tspan>
+<tspan x="10" y="1050"> 53.  2017-04-07 15:58:45 +0000    14603 bytes  lib/natural/stemmers/porter_stemmer_fr.js</tspan>
+<tspan x="10" y="1066"> 54.  2017-04-07 15:58:45 +0000     8732 bytes  lib/natural/stemmers/porter_stemmer_it.js</tspan>
+<tspan x="10" y="1082"> 55.  2017-04-07 15:58:45 +0000     4182 bytes  lib/natural/stemmers/porter_stemmer_no.js</tspan>
+<tspan x="10" y="1098"> 56.  2017-04-07 15:58:45 +0000     8499 bytes  lib/natural/stemmers/porter_stemmer_pt.js</tspan>
+<tspan x="10" y="1114"> 57.  2017-04-07 15:58:45 +0000     4671 bytes  lib/natural/stemmers/porter_stemmer_ru.js</tspan>
+<tspan x="10" y="1130"> 58.  2017-04-07 15:58:45 +0000     2765 bytes  lib/natural/stemmers/stemmer.js</tspan>
+<tspan x="10" y="1146"> 59.  2017-04-07 15:58:45 +0000     2177 bytes  lib/natural/stemmers/stemmer_es.js</tspan>
+<tspan x="10" y="1162"> 60.  2017-04-07 15:58:45 +0000     2036 bytes  lib/natural/stemmers/stemmer_fa.js</tspan>
+<tspan x="10" y="1178"> 61.  2017-04-07 15:58:45 +0000     2073 bytes  lib/natural/stemmers/stemmer_fr.js</tspan>
+<tspan x="10" y="1194"> 62.  2017-04-07 15:58:45 +0000     1110 bytes  lib/natural/stemmers/stemmer_it.js</tspan>
+<tspan x="10" y="1210"> 63.  2017-04-07 15:58:45 +0000     3984 bytes  lib/natural/stemmers/stemmer_ja.js</tspan>
+<tspan x="10" y="1226"> 64.  2017-04-07 15:58:45 +0000     2150 bytes  lib/natural/stemmers/stemmer_no.js</tspan>
+<tspan x="10" y="1242"> 65.  2017-04-07 15:58:45 +0000     2149 bytes  lib/natural/stemmers/stemmer_pl.js</tspan>
+<tspan x="10" y="1258"> 66.  2017-04-07 15:58:45 +0000     2104 bytes  lib/natural/stemmers/stemmer_pt.js</tspan>
+<tspan x="10" y="1274"> 67.  2017-04-07 15:58:45 +0000     2169 bytes  lib/natural/stemmers/stemmer_ru.js</tspan>
+<tspan x="10" y="1290"> 68.  2017-04-07 15:58:45 +0000     5379 bytes  lib/natural/stemmers/token.js</tspan>
+<tspan x="10" y="1306"> 69.  2017-04-07 15:58:45 +0000     6170 bytes  lib/natural/tfidf/tfidf.js</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-07 15:58:45 +0000     1463 bytes  lib/natural/tokenizers/aggressive_tokenizer.js</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-07 15:58:45 +0000     1504 bytes  lib/natural/tokenizers/aggressive_tokenizer_es.j\</tspan>
 <tspan x="10" y="1354">s</tspan>
-<tspan x="10" y="1370"> 72.  2017-04-07 15:57:15 +0000     1892 bytes  lib/natural/tokenizers/aggressive_tokenizer_fa.j\</tspan>
+<tspan x="10" y="1370"> 72.  2017-04-07 15:58:45 +0000     1892 bytes  lib/natural/tokenizers/aggressive_tokenizer_fa.j\</tspan>
 <tspan x="10" y="1386">s</tspan>
-<tspan x="10" y="1402"> 73.  2017-04-07 15:57:15 +0000     1503 bytes  lib/natural/tokenizers/aggressive_tokenizer_fr.j\</tspan>
+<tspan x="10" y="1402"> 73.  2017-04-07 15:58:45 +0000     1503 bytes  lib/natural/tokenizers/aggressive_tokenizer_fr.j\</tspan>
 <tspan x="10" y="1418">s</tspan>
-<tspan x="10" y="1434"> 74.  2017-04-07 15:57:15 +0000     1515 bytes  lib/natural/tokenizers/aggressive_tokenizer_it.j\</tspan>
+<tspan x="10" y="1434"> 74.  2017-04-07 15:58:45 +0000     1515 bytes  lib/natural/tokenizers/aggressive_tokenizer_it.j\</tspan>
 <tspan x="10" y="1450">s</tspan>
-<tspan x="10" y="1466"> 75.  2017-04-07 15:57:15 +0000     1488 bytes  lib/natural/tokenizers/aggressive_tokenizer_nl.j\</tspan>
+<tspan x="10" y="1466"> 75.  2017-04-07 15:58:45 +0000     1488 bytes  lib/natural/tokenizers/aggressive_tokenizer_nl.j\</tspan>
 <tspan x="10" y="1482">s</tspan>
-<tspan x="10" y="1498"> 76.  2017-04-07 15:57:15 +0000     1608 bytes  lib/natural/tokenizers/aggressive_tokenizer_no.j\</tspan>
+<tspan x="10" y="1498"> 76.  2017-04-07 15:58:45 +0000     1608 bytes  lib/natural/tokenizers/aggressive_tokenizer_no.j\</tspan>
 <tspan x="10" y="1514">s</tspan>
-<tspan x="10" y="1530"> 77.  2017-04-07 15:57:15 +0000     1760 bytes  lib/natural/tokenizers/aggressive_tokenizer_pl.j\</tspan>
+<tspan x="10" y="1530"> 77.  2017-04-07 15:58:45 +0000     1760 bytes  lib/natural/tokenizers/aggressive_tokenizer_pl.j\</tspan>
 <tspan x="10" y="1546">s</tspan>
-<tspan x="10" y="1562"> 78.  2017-04-07 15:57:15 +0000     1624 bytes  lib/natural/tokenizers/aggressive_tokenizer_pt.j\</tspan>
+<tspan x="10" y="1562"> 78.  2017-04-07 15:58:45 +0000     1624 bytes  lib/natural/tokenizers/aggressive_tokenizer_pt.j\</tspan>
 <tspan x="10" y="1578">s</tspan>
-<tspan x="10" y="1594"> 79.  2017-04-07 15:57:15 +0000     1744 bytes  lib/natural/tokenizers/aggressive_tokenizer_ru.j\</tspan>
+<tspan x="10" y="1594"> 79.  2017-04-07 15:58:45 +0000     1744 bytes  lib/natural/tokenizers/aggressive_tokenizer_ru.j\</tspan>
 <tspan x="10" y="1610">s</tspan>
-<tspan x="10" y="1626"> 80.  2017-04-07 15:57:15 +0000     2826 bytes  lib/natural/tokenizers/regexp_tokenizer.js</tspan>
-<tspan x="10" y="1642"> 81.  2017-04-07 15:57:15 +0000     1693 bytes  lib/natural/tokenizers/sentence_tokenizer.js</tspan>
-<tspan x="10" y="1658"> 82.  2017-04-07 15:57:15 +0000     1618 bytes  lib/natural/tokenizers/tokenizer.js</tspan>
-<tspan x="10" y="1674"> 83.  2017-04-07 15:57:15 +0000     2068 bytes  lib/natural/tokenizers/tokenizer_case.js</tspan>
-<tspan x="10" y="1690"> 84.  2017-04-07 15:57:15 +0000    26263 bytes  lib/natural/tokenizers/tokenizer_ja.js</tspan>
-<tspan x="10" y="1706"> 85.  2017-04-07 15:57:15 +0000     2335 bytes  lib/natural/tokenizers/treebank_word_tokenizer.j\</tspan>
+<tspan x="10" y="1626"> 80.  2017-04-07 15:58:45 +0000     2826 bytes  lib/natural/tokenizers/regexp_tokenizer.js</tspan>
+<tspan x="10" y="1642"> 81.  2017-04-07 15:58:45 +0000     1693 bytes  lib/natural/tokenizers/sentence_tokenizer.js</tspan>
+<tspan x="10" y="1658"> 82.  2017-04-07 15:58:45 +0000     1618 bytes  lib/natural/tokenizers/tokenizer.js</tspan>
+<tspan x="10" y="1674"> 83.  2017-04-07 15:58:45 +0000     2068 bytes  lib/natural/tokenizers/tokenizer_case.js</tspan>
+<tspan x="10" y="1690"> 84.  2017-04-07 15:58:45 +0000    26263 bytes  lib/natural/tokenizers/tokenizer_ja.js</tspan>
+<tspan x="10" y="1706"> 85.  2017-04-07 15:58:45 +0000     2335 bytes  lib/natural/tokenizers/treebank_word_tokenizer.j\</tspan>
 <tspan x="10" y="1722">s</tspan>
-<tspan x="10" y="1738"> 86.  2017-04-07 15:57:15 +0000    23413 bytes  lib/natural/transliterators/ja/index.js</tspan>
-<tspan x="10" y="1754"> 87.  2017-04-07 15:57:15 +0000     5957 bytes  lib/natural/trie/trie.js</tspan>
-<tspan x="10" y="1770"> 88.  2017-04-07 15:57:15 +0000     1633 bytes  lib/natural/util/bag.js</tspan>
-<tspan x="10" y="1786"> 89.  2017-04-07 15:57:15 +0000     2985 bytes  lib/natural/util/edge_weighted_digraph.js</tspan>
-<tspan x="10" y="1802"> 90.  2017-04-07 15:57:15 +0000     3433 bytes  lib/natural/util/longest_path_tree.js</tspan>
-<tspan x="10" y="1818"> 91.  2017-04-07 15:57:15 +0000     3596 bytes  lib/natural/util/shortest_path_tree.js</tspan>
-<tspan x="10" y="1834"> 92.  2017-04-07 15:57:15 +0000     2540 bytes  lib/natural/util/stopwords.js</tspan>
-<tspan x="10" y="1850"> 93.  2017-04-07 15:57:15 +0000     1728 bytes  lib/natural/util/stopwords_es.js</tspan>
-<tspan x="10" y="1866"> 94.  2017-04-07 15:57:15 +0000     1576 bytes  lib/natural/util/stopwords_fa.js</tspan>
-<tspan x="10" y="1882"> 95.  2017-04-07 15:57:15 +0000     3244 bytes  lib/natural/util/stopwords_fr.js</tspan>
-<tspan x="10" y="1898"> 96.  2017-04-07 15:57:15 +0000     3703 bytes  lib/natural/util/stopwords_it.js</tspan>
-<tspan x="10" y="1914"> 97.  2017-04-07 15:57:15 +0000     3364 bytes  lib/natural/util/stopwords_ja.js</tspan>
-<tspan x="10" y="1930"> 98.  2017-04-07 15:57:15 +0000     2439 bytes  lib/natural/util/stopwords_nl.js</tspan>
-<tspan x="10" y="1946"> 99.  2017-04-07 15:57:15 +0000     2162 bytes  lib/natural/util/stopwords_no.js</tspan>
-<tspan x="10" y="1962">100.  2017-04-07 15:57:15 +0000     3945 bytes  lib/natural/util/stopwords_pl.js</tspan>
-<tspan x="10" y="1978">101.  2017-04-07 15:57:15 +0000     2342 bytes  lib/natural/util/stopwords_pt.js</tspan>
-<tspan x="10" y="1994">102.  2017-04-07 15:57:15 +0000     2693 bytes  lib/natural/util/stopwords_ru.js</tspan>
-<tspan x="10" y="2010">103.  2017-04-07 15:57:15 +0000     1858 bytes  lib/natural/util/stopwords_zh.js</tspan>
-<tspan x="10" y="2026">104.  2017-04-07 15:57:15 +0000     2801 bytes  lib/natural/util/topological.js</tspan>
-<tspan x="10" y="2042">105.  2017-04-07 15:57:15 +0000     3575 bytes  lib/natural/util/utils.js</tspan>
-<tspan x="10" y="2058">106.  2017-04-07 15:57:15 +0000     2835 bytes  lib/natural/wordnet/data_file.js</tspan>
-<tspan x="10" y="2074">107.  2017-04-07 15:57:15 +0000     4038 bytes  lib/natural/wordnet/index_file.js</tspan>
-<tspan x="10" y="2090">108.  2017-04-07 15:57:15 +0000     4878 bytes  lib/natural/wordnet/wordnet.js</tspan>
-<tspan x="10" y="2106">109.  2017-04-07 15:57:15 +0000     2217 bytes  lib/natural/wordnet/wordnet_file.js</tspan>
-<tspan x="10" y="2122">110.  2017-04-07 15:57:15 +0000     2952 bytes  package.json</tspan>
+<tspan x="10" y="1738"> 86.  2017-04-07 15:58:45 +0000    23413 bytes  lib/natural/transliterators/ja/index.js</tspan>
+<tspan x="10" y="1754"> 87.  2017-04-07 15:58:45 +0000     5957 bytes  lib/natural/trie/trie.js</tspan>
+<tspan x="10" y="1770"> 88.  2017-04-07 15:58:45 +0000     1633 bytes  lib/natural/util/bag.js</tspan>
+<tspan x="10" y="1786"> 89.  2017-04-07 15:58:45 +0000     2985 bytes  lib/natural/util/edge_weighted_digraph.js</tspan>
+<tspan x="10" y="1802"> 90.  2017-04-07 15:58:45 +0000     3433 bytes  lib/natural/util/longest_path_tree.js</tspan>
+<tspan x="10" y="1818"> 91.  2017-04-07 15:58:45 +0000     3596 bytes  lib/natural/util/shortest_path_tree.js</tspan>
+<tspan x="10" y="1834"> 92.  2017-04-07 15:58:45 +0000     2540 bytes  lib/natural/util/stopwords.js</tspan>
+<tspan x="10" y="1850"> 93.  2017-04-07 15:58:45 +0000     1728 bytes  lib/natural/util/stopwords_es.js</tspan>
+<tspan x="10" y="1866"> 94.  2017-04-07 15:58:45 +0000     1576 bytes  lib/natural/util/stopwords_fa.js</tspan>
+<tspan x="10" y="1882"> 95.  2017-04-07 15:58:45 +0000     3244 bytes  lib/natural/util/stopwords_fr.js</tspan>
+<tspan x="10" y="1898"> 96.  2017-04-07 15:58:45 +0000     3703 bytes  lib/natural/util/stopwords_it.js</tspan>
+<tspan x="10" y="1914"> 97.  2017-04-07 15:58:45 +0000     3364 bytes  lib/natural/util/stopwords_ja.js</tspan>
+<tspan x="10" y="1930"> 98.  2017-04-07 15:58:45 +0000     2439 bytes  lib/natural/util/stopwords_nl.js</tspan>
+<tspan x="10" y="1946"> 99.  2017-04-07 15:58:45 +0000     2162 bytes  lib/natural/util/stopwords_no.js</tspan>
+<tspan x="10" y="1962">100.  2017-04-07 15:58:45 +0000     3945 bytes  lib/natural/util/stopwords_pl.js</tspan>
+<tspan x="10" y="1978">101.  2017-04-07 15:58:45 +0000     2342 bytes  lib/natural/util/stopwords_pt.js</tspan>
+<tspan x="10" y="1994">102.  2017-04-07 15:58:45 +0000     2693 bytes  lib/natural/util/stopwords_ru.js</tspan>
+<tspan x="10" y="2010">103.  2017-04-07 15:58:45 +0000     1858 bytes  lib/natural/util/stopwords_zh.js</tspan>
+<tspan x="10" y="2026">104.  2017-04-07 15:58:45 +0000     2801 bytes  lib/natural/util/topological.js</tspan>
+<tspan x="10" y="2042">105.  2017-04-07 15:58:45 +0000     3575 bytes  lib/natural/util/utils.js</tspan>
+<tspan x="10" y="2058">106.  2017-04-07 15:58:45 +0000     2835 bytes  lib/natural/wordnet/data_file.js</tspan>
+<tspan x="10" y="2074">107.  2017-04-07 15:58:45 +0000     4038 bytes  lib/natural/wordnet/index_file.js</tspan>
+<tspan x="10" y="2090">108.  2017-04-07 15:58:45 +0000     4878 bytes  lib/natural/wordnet/wordnet.js</tspan>
+<tspan x="10" y="2106">109.  2017-04-07 15:58:45 +0000     2217 bytes  lib/natural/wordnet/wordnet_file.js</tspan>
+<tspan x="10" y="2122">110.  2017-04-07 15:58:45 +0000     2952 bytes  package.json</tspan>
 </text>
 </svg>
