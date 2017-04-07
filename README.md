@@ -1,11 +1,13 @@
-# api documentation for  [natural (v0.5.0)](https://github.com/NaturalNode/natural)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)
+# api documentation for  [natural (v0.5.0)](https://github.com/NaturalNode/natural)  [![npm package](https://img.shields.io/npm/v/npmdoc-natural.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-natural) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)
 #### General natural language (tokenizing, stemming (English, Russian, Spanish), classification, inflection, phonetics, tfidf, WordNet, jaro-winkler, Levenshtein distance, Dice's Coefficient) facilities for node.
 
 [![NPM](https://nodei.co/npm/natural.png?downloads=true)](https://www.npmjs.com/package/natural)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-natural/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-natural_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-natural/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-natural/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-natural_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-natural/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-natural/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-natural/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-natural/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
