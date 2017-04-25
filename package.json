@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "natural",
-    "description": "api documentation for [natural (v0.5.1)](https://github.com/NaturalNode/natural) [![npm package](https://img.shields.io/npm/v/npmdoc-natural.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-natural) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)",
+    "description": "#### basic api documentation for  [natural (v0.5.1)](https://github.com/NaturalNode/natural)  [![npm package](https://img.shields.io/npm/v/npmdoc-natural.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-natural) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "natural": "*",

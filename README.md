@@ -1,4 +1,7 @@
-# api documentation for  [natural (v0.5.1)](https://github.com/NaturalNode/natural)  [![npm package](https://img.shields.io/npm/v/npmdoc-natural.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-natural) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)
+# npmdoc-natural
+
+#### basic api documentation for  [natural (v0.5.1)](https://github.com/NaturalNode/natural)  [![npm package](https://img.shields.io/npm/v/npmdoc-natural.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-natural) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-natural.svg)](https://travis-ci.org/npmdoc/node-npmdoc-natural)
+
 #### General natural language (tokenizing, stemming (English, Russian, Spanish), classification, inflection, phonetics, tfidf, WordNet, jaro-winkler, Levenshtein distance, Dice's Coefficient) facilities for node.
 
 [![NPM](https://nodei.co/npm/natural.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/natural)
@@ -87,7 +90,8 @@
     "scripts": {
         "test": "NODE_PATH=. node_modules/jasmine-node/bin/jasmine-node spec/"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 
